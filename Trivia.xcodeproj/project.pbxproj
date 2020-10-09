@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A5211601252F50BC000E6EB9 /* QuestionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuestionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5211601252F50BC000E6EB9 /* Trivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5211604252F50BC000E6EB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A5211606252F50BC000E6EB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		A5211608252F50BC000E6EB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		A5211602252F50BC000E6EB9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A5211601252F50BC000E6EB9 /* QuestionApp.app */,
+				A5211601252F50BC000E6EB9 /* Trivia.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A5211600252F50BC000E6EB9 /* QuestionApp */ = {
+		A5211600252F50BC000E6EB9 /* Trivia */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A5211615252F50BE000E6EB9 /* Build configuration list for PBXNativeTarget "QuestionApp" */;
+			buildConfigurationList = A5211615252F50BE000E6EB9 /* Build configuration list for PBXNativeTarget "Trivia" */;
 			buildPhases = (
 				A52115FD252F50BC000E6EB9 /* Sources */,
 				A52115FE252F50BC000E6EB9 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = QuestionApp;
+			name = Trivia;
 			productName = QuestionApp;
-			productReference = A5211601252F50BC000E6EB9 /* QuestionApp.app */;
+			productReference = A5211601252F50BC000E6EB9 /* Trivia.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A52115FC252F50BC000E6EB9 /* Build configuration list for PBXProject "QuestionApp" */;
+			buildConfigurationList = A52115FC252F50BC000E6EB9 /* Build configuration list for PBXProject "Trivia" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A5211600252F50BC000E6EB9 /* QuestionApp */,
+				A5211600252F50BC000E6EB9 /* Trivia */,
 			);
 		};
 /* End PBXProject section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.MoApps.QuestionApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Trivia;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.MoApps.QuestionApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Trivia;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A52115FC252F50BC000E6EB9 /* Build configuration list for PBXProject "QuestionApp" */ = {
+		A52115FC252F50BC000E6EB9 /* Build configuration list for PBXProject "Trivia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A5211613252F50BE000E6EB9 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A5211615252F50BE000E6EB9 /* Build configuration list for PBXNativeTarget "QuestionApp" */ = {
+		A5211615252F50BE000E6EB9 /* Build configuration list for PBXNativeTarget "Trivia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A5211616252F50BE000E6EB9 /* Debug */,
